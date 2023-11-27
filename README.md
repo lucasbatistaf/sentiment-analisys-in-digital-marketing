@@ -13,7 +13,7 @@ Learning new SciKit Learn algorithms for applying Machine Learning models;
 
 Learning Lattent Dirilech Allocation and a topic visualization API technique and concept for topic modeling;
 
-The project was based on the work of Belém Barbosa et al., named "Defining content marketing and its influence on online user behavior: a data-driven prescriptive analytics method".
+The project was based on the work of Belém Barbosa et al., named "Defining content marketing and its influence on online user behavior: a data-driven prescriptive analytics method". (https://doi.org/10.1007/s10479-023-05261-1)
 
 Changes were made to manipulate a portuguese based corpus, as changing the NLP library from TextBlob to NLTK and SpacY, because of TextBlob not having compatibility with Portuguese.
 
