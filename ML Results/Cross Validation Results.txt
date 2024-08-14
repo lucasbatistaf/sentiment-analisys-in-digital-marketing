@@ -1,5 +1,0 @@
-dataset_1_no_stopword_lemma.csv, Naive Bayes, accuracy train data, [0.75434412 0.75144804 0.75826235 0.74429302 0.74752981],
-dataset_1_no_stopword_lemma.csv, Random Forest, accuracy train data, [0.83339012 0.82776831 0.82793867 0.82504259 0.8229983 ],
-dataset_1_no_stopword_lemma.csv, Support Vector, accuracy train data, [0.77649063 0.77120954 0.76780239 0.76132879 0.77717206],
-dataset_1_no_stopword_stemm.csv, Naive Bayes, accuracy train data, [0.75570698 0.74599659 0.75809199 0.76286201 0.75826235],
-dataset_1_no_stopword_stemm.csv, Random Forest, accuracy train data, [0.82896082 0.82436116 0.83407155 0.83407155 0.83100511],
