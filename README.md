@@ -22,12 +22,12 @@ Files description:
 
 olist_order_reviews_dataset.csv: the original dataset, taken from Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_reviews_dataset.csv)
 
-Data Cleaning.ipynb: script for cleaning the dataset and saving the results in "Clean Datasets" folder, Post Cleaning datasets (with tokenization, lemmatization and stemming) were saved in the "Post Cleaning Datasets" folder
+Data Cleaning.py: script for cleaning the dataset and saving the results in "Clean Datasets" folder, Post Cleaning datasets (with tokenization, lemmatization and stemming) were saved in the "Post Cleaning Datasets" folder
 
-Machine Learning.ipynb: script for the Machine Learning algorithms for textual classification saving the results in "ML Results" folder as a .txt files one for the Machine Learning and other for Cross-Validation results
+Machine Learning.py: script for the Machine Learning algorithms for textual classification saving the results in "ML Results" folder as a .txt files one for the Machine Learning and other for Cross-Validation results
 
-LDA.ipynb: script for the Lattent Dirilech Allocation model, using concepts such as Bag-of-Words and visualization of the results with pyLDAvis, results were saved in the "LDA Results" folder
+LDA.py: script for the Lattent Dirilech Allocation model, using concepts such as Bag-of-Words and visualization of the results with pyLDAvis, results were saved in the "LDA Results" folder
 
-Textual Analysis.ipynb: script for a simple textual analysis, using similar words found by the topic modeling technique and counting the frequency of them in the whole dataset
+Textual Analysis.py: script for a simple textual analysis, using similar words found by the topic modeling technique and counting the frequency of them in the whole dataset
 
 
